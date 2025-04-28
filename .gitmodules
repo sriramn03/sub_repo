@@ -4,3 +4,6 @@
 [submodule "Controller"]
 	path = Controller
 	url = https://github.com/sriramn03/Controller.git
+[submodule "UserAdaptor"]
+	path = UserAdaptor
+	url = https://github.com/sriramn03/UserAdaptor.git
