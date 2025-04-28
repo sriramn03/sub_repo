@@ -7,3 +7,6 @@
 [submodule "UserAdaptor"]
 	path = UserAdaptor
 	url = https://github.com/sriramn03/UserAdaptor.git
+[submodule "UI"]
+	path = UI
+	url = https://github.com/sriramn03/UI.git
